@@ -2,6 +2,10 @@
   "name": "vit-question-papers",
   "version": "1.0.0",
   "private": true,
+  "engines": {
+    "node": "22.x",
+    "npm": ">=10"
+  },
   "dependencies": {
     "firebase": "^10.12.1",
     "gsap": "^3.13.0",
